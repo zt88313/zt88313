@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom Z
+👋 Hi, I’m Tom Z
 - 👀 I’m interested in game,database,software
 - 🌱 I’m currently learning web Development
 - 📫 How to reach me: Email: zt88313@gmail.com
