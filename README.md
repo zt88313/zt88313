@@ -1,5 +1,5 @@
 👋 Hi, I’m Tom Z<br>
-👀 I’m interested in game,database,software<br>
+👀 I’m interested in game,software,ai,physics,science...<br>
 🌱 I’m currently learning web Development<br>
 📫 How to reach me: Email: zt88313@gmail.com
 
